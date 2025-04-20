@@ -28,7 +28,7 @@ For testing purposes, use the following credentials:
 1. Clone the repository
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/atiqmasood/natixis
 ```
 
 2. Install dependencies
